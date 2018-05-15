@@ -45,6 +45,7 @@ Ao adicionar o seu nome, por favor observe:
 | Mário Idival Gomes Duarte     | marioidival@gmail.com                 | https://github.com/marioidival        |
 | Max Sylver                    | maxsylver@outlook.com                 | https://github.com/MaxTgr             |
 | Nicholas Borba                | nicholasborba@gmail.com               | https://github.com/nkborba            |
+| Rebeca Meyer Rosa Menegoli    | rebeca.menegoli@gmail.com             | https://github.com/rebrosa
 | Rodrigo Duarte de O. Toledo   | rodrigotoledo7@gmail.com              | https://github.com/rodrigotoledo7     |
 | Rodrigo Vaz De Oliveira       | rodrigovazdeoliveira@gmail.com        | https://github.com/RodrigoVazOliveira |
 | Ruhan Macedo                  | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo        |
